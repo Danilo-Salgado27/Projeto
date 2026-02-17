@@ -33,4 +33,9 @@ Este é um projeto desenvolvido para praticar HTML, CSS e JavaScript, com foco e
 
 ## 📂 Estrutura do projeto
 
+Projeto/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
 
