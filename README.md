@@ -6,9 +6,9 @@ Este é um projeto desenvolvido para praticar HTML, CSS e JavaScript, com foco e
 
 ## 📸 Preview
 
-<img src="./assets/preview.png" alt="Preview do projeto" width="100%">
+<img src="assets/preview.png" alt="Preview do projeto" width="100%">
 
-> Se quiser, você pode tirar um print do projeto e salvar como `preview.png` dentro da pasta `assets`.
+> 
 
 ---
 
